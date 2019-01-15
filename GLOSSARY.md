@@ -11,7 +11,7 @@ Code Property Graph. The code property graph is a graph representation of the ap
 The ShiftLeft CLI, or `sl`, is the ShiftLeft command line interface. [Read more](getting-started/using-sl-the-shiftleft-cli.md).
 
 ## Microagent
-The ShiftLeft Microagent is a runtime agent that sits alongside the application process in runtime and monitors for bad behavior. It is minuscule in terms of performance impact, but very powerful in terms of detection capabilities. If configured to do so, it will also block attacks that could harm the application.
+The ShiftLeft Microagent is an agent that sits alongside the application process in runtime and monitors for bad behavior. It is minuscule in terms of performance impact, but very powerful in terms of detection capabilities. If configured to do so, it will also block attacks that could harm the application.
 
 ## ShiftLeft Ocular
 ShiftLeft Ocular is a set of command line tools that provide a static analysis framework in the context of security. [Read more](https://docs.shiftleft.io/ocular).
