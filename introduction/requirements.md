@@ -15,7 +15,7 @@ ShiftLeft has specific requirements for:
 * [ShiftLeft CLI](#shiftleft-cli-requirements)
 * [ShiftLeft Inspect](#requirements-for-shiftleft-inspect)
 * [ShiftLeft Protect](#requirements-for-shiftleft-protect)
-* [Browser](#browser-requirements
+* [Browser](#browser-requirements)
 
 ### Requirements for ShiftLeft Ocular
 
