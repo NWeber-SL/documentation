@@ -17,7 +17,7 @@ bash ./install.sh
 
 The install script:
 
-* asks you where you want to install ShiftLeft Ocular (defaults to `~/bin/ocular`).
+* asks you where to install ShiftLeft Ocular (defaults to `~/bin/ocular`).
 * checks if there is an existing installation, and if so, offers to delete it.
 * unpacks the ShiftLeft dynamic policy to `~/.shiftleft/policy/dynamic`, and if it already exists, offers to delete it.
 * unpacks the ShiftLeft static policy to `~/.shiftleft/policy/static`, and if it already exists, offers to delete it.
